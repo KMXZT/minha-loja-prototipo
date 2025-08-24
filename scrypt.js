@@ -1,0 +1,1 @@
+console.log("Bem-vindo à Minha Loja (protótipo visual). Nenhuma compra real pode ser feita aqui.");
